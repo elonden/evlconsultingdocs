@@ -1,3 +1,4 @@
+site_name: EvL Consulting reference documentation.
 theme: readthedocs
 markdown-extensions:
   - smarty
