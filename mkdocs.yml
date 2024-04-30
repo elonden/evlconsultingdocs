@@ -7,8 +7,8 @@ markdown-extensions:
       separator: "-"
   - sane_lists
   - fenced_code
-#nav:
-#  - 'index.md'
+nav:
+  - 'main.md'
 #  - 'Ch 1 -  Introduction': 'chap-01-Introduction.md'
 #  - 'Ch 2 -  Applications': 'chap-02-applications.md'
 #  - 'Ch 3 -  Filesystems': 'chap-03-filesystems.md'
