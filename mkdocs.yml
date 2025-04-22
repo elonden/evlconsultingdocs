@@ -10,7 +10,7 @@ markdown-extensions:
 nav:
   - 'index.md'
   - 'Ch 1 -  Proofpoint': 'Proofpoint.md'
-#  - 'Ch 2 -  Applications': 'chap-02-applications.md'
+  - 'Ch 2 -  Keeper': 'Keeper.md'
 #  - 'Ch 3 -  Filesystems': 'chap-03-filesystems.md'
 #  - 'Ch 4 -  Encryption': 'chap-04-encryption.md'
 #  - 'Ch 5 -  Partitions': 'chap-05-partitions.md'
